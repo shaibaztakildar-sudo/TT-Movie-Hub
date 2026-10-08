@@ -1,0 +1,6 @@
+{
+  "name": "TT Movie Hub",
+  "description": "Production OTT streaming app for movies and web series with full video player, watchlist, downloads, and protected admin hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
